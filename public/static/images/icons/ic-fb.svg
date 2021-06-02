@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#fff;stroke-width:1.5px}
+        </style>
+    </defs>
+    <g id="ic-fb" transform="translate(-28 -689)">
+        <g id="Ellipse" class="cls-1" transform="translate(28 689)">
+            <circle cx="18" cy="18" r="18"/>
+            <circle cx="18" cy="18" r="17.25" fill="none"/>
+        </g>
+        <path id="iconmonstr-facebook-5" d="M13 12.667h-2.333V15H13v7h3.5v-7h2.123l.21-2.333H16.5v-.972c0-.558.112-.778.651-.778h1.682V8h-2.8C13.931 8 13 8.924 13 10.693v1.974z" class="cls-1" transform="translate(30.833 692.5)"/>
+    </g>
+</svg>

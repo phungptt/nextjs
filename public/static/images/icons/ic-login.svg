@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="ic-login" width="36" height="36" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .cls-4{stroke:none}
+        </style>
+    </defs>
+    <g id="path" fill="none">
+        <path d="M0 0h26l10 10v26H0z" class="cls-4"/>
+        <path fill="#4dd591" d="M2 2v32h32V10.828L25.172 2H2M0 0h26l10 10v26H0V0z"/>
+    </g>
+    <path id="path-2" fill="#4dd591" d="M0 0H2V8H0z" transform="translate(17 8)"/>
+    <g id="Ellipse" fill="none" stroke="#4dd591" stroke-width="2px" transform="translate(11 14)">
+        <circle cx="7" cy="7" r="7" class="cls-4"/>
+        <circle cx="7" cy="7" r="6"/>
+    </g>
+</svg>
